@@ -20,6 +20,10 @@ export default function Index() {
             Welcome to our blog about us and what we have been playing and
             doing.
           </h2>
+          <h3>
+            Games currently playing: Sea of Thieves, Phantasy Star Online,
+            Cryofall, and Destiny 2.
+          </h3>
           <SocialList />
         </div>
       </div>
