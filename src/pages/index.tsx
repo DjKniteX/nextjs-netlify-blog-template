@@ -21,8 +21,8 @@ export default function Index() {
             doing.
           </h2>
           <h3>
-            Games currently playing: COD Warzone, Cryofall, Destiny 2, Phantasy
-            Star Online, and Sea of Thieves
+            Games currently playing: Sea of Thieves, Phantasy Star Online,
+            Cryofall, and Destiny 2.
           </h3>
           <SocialList />
         </div>
