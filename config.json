@@ -1,6 +1,6 @@
 {
   "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "TSN BLOG",
+  "site_title": "SKYNITE BLOG",
   "site_description": "A Next.js blog for Team SKYNITE",
   "site_keywords": [
     {
@@ -11,8 +11,13 @@
     },
     {
       "keyword": "React"
-    }
+    },
+    "team skynite",
+    "Arkansas Esports",
+    "Esports",
+    "Arkansas"
   ],
   "posts_per_page": 5,
-  "twitter_account": "@teamskynite"
+  "twitter_account": "@teamskynite",
+  "github_account": "NA"
 }
